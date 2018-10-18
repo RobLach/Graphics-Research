@@ -1,0 +1,17 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MP3", "mp3.vcproj", "{86E6D673-0119-474C-AE0E-C82E57356AFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug Multithreaded DLL|Win32 = Debug Multithreaded DLL|Win32
+		Release Multithreaded DLL|Win32 = Release Multithreaded DLL|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86E6D673-0119-474C-AE0E-C82E57356AFB}.Debug Multithreaded DLL|Win32.ActiveCfg = Debug Multithreaded DLL|Win32
+		{86E6D673-0119-474C-AE0E-C82E57356AFB}.Release Multithreaded DLL|Win32.ActiveCfg = Release Multithreaded DLL|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
